@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 95vh;
+}
+div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header, .footer{
+    height: 25%;
+}
+.img{
+    width: 23%;
+    height: 85%;
+    margin: 2%;
+    padding: auto;
+}
+.content{
+    height: 50%;
+}
+.contentImg{
+    height: 85%;
+}
